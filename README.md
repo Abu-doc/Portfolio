@@ -8,7 +8,9 @@ Hey there! I'm **Abu Bakar**, and this is my **digital playground** — a place 
 
 ## 🖼️ Preview
 
-![Portfolio Screenshot](./public/images/fnp2.png)
+![Portfolio Screenshot]
+![Uploading image.png…]()
+
 
 > 💡 *Tip: Clone the repo and run it locally to experience it fully!*
 
