@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Navbar = () => {
-  const navItems = ['Home', 'About', 'Projects', 'Contact'];
+  const navItems = ['Home', 'About', 'Projects', 'Skills' , 'Contact'];
 
   return (
     <nav className="fixed top-0 left-0 w-full z-50 bg-purple-950/30 backdrop-blur-md border-b border-purple-600 shadow-md">
